@@ -1,0 +1,3 @@
+draw_circle(600,600,100,32,colors[0])
+draw_circle(600,432,72,32,colors[0])
+draw_circle(732,492,72,32,colors[0])

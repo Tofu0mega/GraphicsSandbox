@@ -1,0 +1,8 @@
+blue = [0., 0., 0.9, 1.0]
+yellow = [1.0, 1.0, 0.0, 1.0]
+black = [0.0, 0.0, 0.0, 1.0]
+red = [1.0, 0.0, 0.0, 1.0]
+light_pink = [1.0, 0.714, 0.757, 1.0]
+white=[1.0,1.0,1.0,1.0]
+off_white = [0.96, 0.96, 0.96, 1.0]
+colors=[blue,yellow,black,red,light_pink,white,off_white]

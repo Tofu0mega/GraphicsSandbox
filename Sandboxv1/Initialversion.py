@@ -97,7 +97,7 @@ def filledtriangle(cx, cy, r_outer, r_inner, color):
     glEnd()
 
 
-#for filling white colors
+    #for filling white colors
     glColor4fv(color)  
     glBegin(GL_QUADS) 
     glVertex2f(x1_inner, y1_inner)
